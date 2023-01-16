@@ -1,0 +1,13 @@
+=====> LES ENVAHISSEURS DE L'ESPACE <=====
+
+- les ennemis vont de gauche a droite ils descendent d'une position en y lors de la colision avec le mur. 
+
+- le personnage fait 3 carrés de long il tire key press au milieu (tir a preciser) 
+
+- il y a 4 protections de 4 blocs en carré destructibles 
+
+- le jeu se joue en manches avec un score
+
+--------------------------------------------------------------------------------------------------------------
+
+
